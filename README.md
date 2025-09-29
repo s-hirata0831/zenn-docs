@@ -6,7 +6,12 @@
 
 - **著者**: [@shirata](https://zenn.dev/shirata)
 - **目的**: 技術記事・本・スクラップの執筆・管理
-- **更新日**: 2025 年 9 月 29 日
+
+## 📰 記事/本一覧
+
+- **データ構造とアルゴリズム(執筆中)**  
+  記事リンク：(公開後貼り付け予定)  
+  編集フォルダ：[/books/data_structure_algorithm/](/books/data_structure_algorithm/)
 
 ## 🚀 セットアップ
 
@@ -65,7 +70,6 @@ zenn new:scrap
 
 ### ファイル命名規則
 
-- 記事: `YYYY-MM-DD-title.md` 形式
 - 画像: `images/` フォルダ内に記事別でフォルダ分け
 
 ### 記事のメタデータ例
