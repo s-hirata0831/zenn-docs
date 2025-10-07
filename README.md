@@ -24,13 +24,13 @@ npm install -g zenn-cli
 ### 2. 初期化（初回のみ）
 
 ```bash
-zenn init
+npx zenn init
 ```
 
 ### 3. プレビューサーバーの起動
 
 ```bash
-zenn preview
+npx zenn preview
 ```
 
 ブラウザで `http://localhost:8000` にアクセスして記事をプレビューできます。
